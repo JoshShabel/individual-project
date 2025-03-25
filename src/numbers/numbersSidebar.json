@@ -1,0 +1,16 @@
+{
+  "list": [
+    {
+      "link": "",
+      "text": "Overview"
+    },
+    {
+      "link": "allocations",
+      "text": "RIR Allocation Data"
+    },
+    {
+      "link": "abuse",
+      "text": "Abuse Issues"
+    }
+  ]
+}

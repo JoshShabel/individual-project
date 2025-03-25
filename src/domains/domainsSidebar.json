@@ -1,0 +1,32 @@
+{
+  "list": [
+    {
+      "link": "",
+      "text": "Overview"
+    },
+    {
+      "link": "root",
+      "text": "Root Zone Management"
+    },
+    {
+      "link": "int",
+      "text": ".INT Registry"
+    },
+    {
+      "link": "arpa",
+      "text": ".ARPA Registry"
+    },
+    {
+      "link": "idn-tables",
+      "text": "IDN Practices Repository"
+    },
+    {
+      "link": "dnssec",
+      "text": "Root Key Signing Key (DNSSEC)"
+    },
+    {
+      "link": "reserved",
+      "text": "Reserved Domains"
+    }
+  ]
+}

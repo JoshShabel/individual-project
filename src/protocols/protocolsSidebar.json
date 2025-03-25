@@ -1,0 +1,20 @@
+{
+  "list": [
+    {
+      "link": "",
+      "text": "Protocol Registries"
+    },
+    {
+      "link": "time-zones",
+      "text": "Time Zone Database"
+    },
+    {
+      "link": "ietf-statistics",
+      "text": "Performance"
+    },
+    {
+      "link": "ietf-draft-status",
+      "text": "IETF Draft Status"
+    }
+  ]
+}
