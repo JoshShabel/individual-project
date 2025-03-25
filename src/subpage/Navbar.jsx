@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
 
         <div className={styles.navBarStyle}>
-            <img src={ianaLogo} alt="iana logo" />
+            <a href="/#/"><img src={ianaLogo} alt="iana logo" /></a>
             <ul>
                 <li><a href="/#/domains">Domains</a></li>
                 <li><a href="/#/protocols">Protocols</a></li>

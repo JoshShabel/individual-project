@@ -1,7 +1,13 @@
 .boxStyle{
     display: block;
+    width:40em;
+    margin: 30px;
+    border-radius: 25px;
+    background-color: white;
+    justify-content: center;
+margin-left: 10px;
 }
 
-h2{
+.boxStyle h2{
     text-align: center;
 }

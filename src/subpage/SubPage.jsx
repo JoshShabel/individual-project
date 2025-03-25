@@ -1,4 +1,4 @@
-import './SubPage.module.css';
+import styles from './SubPage.module.css';
 import PropTypes from "prop-types";
 import {Navigate, useParams} from "react-router-dom"
 import Navbar from "./Navbar.jsx";
@@ -88,11 +88,13 @@ function SubPage() {
         }
     }
     return (
-        <div>
+        <div >
             <Navbar></Navbar>
-            <div style={{display:'flex', alignItems:'start', textAlign:'left', width:'100%'}}>
+            <div className={styles.subPageOverStyle}>
                 <Sidebar id={page}></Sidebar>
+                <div className={styles.subPageStyle} >
                 {chooseSubpage()}
+                </div>
             </div>
         </div>
     );

@@ -1,5 +1,9 @@
 .boxesStyle{
-    display: inline-grid;
+    display: flex;
     grid-template-columns: 1fr 1fr 1fr;
     background-color: lightgray;
+height: 350px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
 }
